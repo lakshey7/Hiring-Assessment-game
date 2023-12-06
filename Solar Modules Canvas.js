@@ -9,7 +9,7 @@ lib.properties = {
 	fps: 24,
 	color: "#F0C977",
 	manifest: [
-		{src:"images/toppngcomredglowingeyespngcircle600x600.png?1599142126590", id:"toppngcomredglowingeyespngcircle600x600"}
+		{src:"toppngcomredglowingeyespngcircle600x600.png?1599142126590", id:"toppngcomredglowingeyespngcircle600x600"}
 	]
 };
 
